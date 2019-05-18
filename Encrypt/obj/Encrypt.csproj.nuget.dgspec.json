@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shane\\source\\repos\\Encrypt\\Encrypt\\Encrypt.csproj": {}
+    "C:\\Users\\shane\\source\\repos\\Encrypt\\CryptoAES256\\Encrypt\\Encrypt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shane\\source\\repos\\Encrypt\\Encrypt\\Encrypt.csproj": {
+    "C:\\Users\\shane\\source\\repos\\Encrypt\\CryptoAES256\\Encrypt\\Encrypt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shane\\source\\repos\\Encrypt\\Encrypt\\Encrypt.csproj",
+        "projectUniqueName": "C:\\Users\\shane\\source\\repos\\Encrypt\\CryptoAES256\\Encrypt\\Encrypt.csproj",
         "projectName": "Encrypt",
-        "projectPath": "C:\\Users\\shane\\source\\repos\\Encrypt\\Encrypt\\Encrypt.csproj",
+        "projectPath": "C:\\Users\\shane\\source\\repos\\Encrypt\\CryptoAES256\\Encrypt\\Encrypt.csproj",
         "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shane\\source\\repos\\Encrypt\\Encrypt\\obj\\",
+        "outputPath": "C:\\Users\\shane\\source\\repos\\Encrypt\\CryptoAES256\\Encrypt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
